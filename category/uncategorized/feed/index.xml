@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Uncategorized Archives - wllpower</title>
-	<atom:link href="/category/uncategorized/feed/?simply_static_page=1708" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/uncategorized/</link>
 	<description>Achieve your goals. Together.</description>
 	<lastBuildDate>Wed, 26 Aug 2020 00:04:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,18 +18,18 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/wllpower-site-icon-white-150x150.png</url>
+	<url>/wp-content/uploads/2020/09/elementor/thumbs/wllpower-site-icon-white-ovb9fszi5sw40l84c6ck1s9m1iu9jh5jmoh3byywio.png</url>
 	<title>Uncategorized Archives - wllpower</title>
-	<link>/</link>
+	<link>/category/uncategorized/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">182021484</site>	<item>
+	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+		<link>/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tech]]></dc:creator>
@@ -52,6 +49,6 @@
 			<slash:comments>1</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+			</item>
 	</channel>
 </rss>
