@@ -8,15 +8,15 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+	<atom:link href="http://10.23.30.20/hello-world/feed/?simply_static_page=2580" rel="self" type="application/rss+xml" />
+	<link>/hello-world/</link>
 	<description>Achieve your goals. Together.</description>
 	<lastBuildDate>Wed, 26 Aug 2020 00:04:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>

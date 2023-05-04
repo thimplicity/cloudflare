@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for wllpower	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.23.30.20/comments/feed/?simply_static_page=2521" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Achieve your goals. Together.</description>
 	<lastBuildDate>Wed, 26 Aug 2020 00:04:08 +0000</lastBuildDate>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>

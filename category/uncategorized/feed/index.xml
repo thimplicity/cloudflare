@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized Archives - wllpower</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.23.30.20/category/uncategorized/feed/?simply_static_page=2615" rel="self" type="application/rss+xml" />
 	<link>/category/uncategorized/</link>
 	<description>Achieve your goals. Together.</description>
 	<lastBuildDate>Wed, 26 Aug 2020 00:04:08 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/09/elementor/thumbs/wllpower-site-icon-white-ovb9fszi5sw40l84c6ck1s9m1iu9jh5jmoh3byywio.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tech]]></dc:creator>
